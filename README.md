@@ -25,7 +25,7 @@ PRINT("Hello World");
 //or
 PRINT("@X0AHello World");  // Will output Bright Green on Black
 //or
-PRINT("@1EHello World");  // Will output Bright Yellow on Bleu
+PRINT("@X1EHello World");  // Will output Bright Yellow on Bleu
 ```
 
 Color command is simple : @Xab
@@ -63,7 +63,7 @@ for the text :
 
 you can naturally use the entire 255 charset of the DOS 437 FONT :
 ```c
-PRINTLN("@30░▒▓  @0FHello World @30▓▒░");
+PRINTLN("@X30░▒▓  @X0FHello World @X30▓▒░");
 ```
 
 ## Bonus

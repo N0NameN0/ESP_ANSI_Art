@@ -1,6 +1,7 @@
 # ESP_ANSI_Art
 
 ESP_ANSI_Art is a simple function/code that provide a DOS IBM437 Font and color @PCBoard syntax on ESP8266 / ESP32 / ARDUINO and  an LCD screen ( ie : ILI9341 )
+ ![wire](README_Medias/wire.png)
 
 ## Installation
 

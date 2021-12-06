@@ -77,6 +77,17 @@ ANSIPOS(2,7);
 PRINT("OR HERE");
 ```
 
+## Bonus 2 INFO
+You can easily draw your ansi art using TheDraw ( under dosbox) and save it at @PcBoard syntax.
+After that symply convert your PCB file to UTF8 ;)
+
+```bash
+iconv -f IBM437 -t UTF-8 MyArt.PCB -o MyArt.PCB.UTF8
+```
+
+
+## Screenshots
+ ![wire](README_Medias/BTC.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -63,7 +63,7 @@ for the text :
 
 you can naturally use the entire 255 charset of the DOS 437 FONT :
 ```c
-PRINTLN("@X30░▒▓  @X0FHello World @X30▓▒░");
+PRINTLN("@X30░▒▓ @X0FHello World @X30▓▒░");
 ```
 
 ## Bonus
